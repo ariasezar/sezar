@@ -1,5 +1,5 @@
 <h1><p align="center"><stronge>Inline Suores</stronge>
-<h3><p align="center">Opened By <a href="https://telegram.me/sezarinfo"> `Bibak` </a>
+<h3><p align="center">Opened By <a href="https://telegram.me/sezarinfo"> `sezarinfo` </a>
 
 
 <h3 dir="rtl"> آموزش نصب
