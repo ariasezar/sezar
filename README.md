@@ -1,5 +1,5 @@
 <h1><p align="center"><stronge>Inline Suores</stronge>
-<h3><p align="center">Opened By <a href="https://telegram.me/Bibak_BG"> `Bibak` </a>
+<h3><p align="center">Opened By <a href="https://telegram.me/sezarinfo"> `Bibak` </a>
 
 
 <h3 dir="rtl"> آموزش نصب
@@ -7,7 +7,7 @@
 <h4 dir="rtl"> ابتدا سورس را کلون کنید:</h4>
 <h6>(کد زیر را در ترمینال وارد کنید👇)</h6>
 <pre>
-<span>git clone https://github.com/BibakBangTeam/inline.git</span>
+<span>git clone https://github.com/ariasezar/sezar.git</span>
 </pre>
 <h4 dir="rtl">بعد از کلون کردن به فایل bot.lua موجود در پوشه bot بروید
 در خط ۱و۲و۹ بجای username یوزر سرور خودرا قرار دهید
@@ -23,7 +23,7 @@
 <br>➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
 </h4>حال ترمینال باز کنید و دستورات زیر را اجرا کنید
 <pre>
-<span>cd inline/api</span>
+<span>cd sezar/api</span>
 <span>chmod +x launch.sh</span>
 <span>cd ..</span>
 <span>cd bot</span>
@@ -35,7 +35,7 @@
 <h4 dir="rtl">از شما شماره ربات خواسته می‌شود پس از وارد کردن آن کد ورود به اکانت ربات cli خواسته می‌شود آن را هم وارد کنید.
 <br>حال ترمینال جدید باز کنید و ربات api را با دستورات زیر ران کنید.</h4>
 <pre>
-<span>cd inline/api</span>
+<span>cd sezar/api</span>
 <span>./launch.sh</span>
 </pre>
 <h4 dir="rtl"> نکته ی مهم
@@ -46,8 +46,8 @@
 <br><br>
 اگر جایی به مشکل بر خوردید به پی وی بنده مراجعه کنید
 <br> </h4>
- <h2 dir="rtl"><a href="https://telegram.me/BanG_TeaM">BanG TeaM</a>
-<br> <h3 dir="rtl">   <a href="https://telegram.me/bibak_BG">My Pv </a>
+ <h2 dir="rtl"><a href="https://telegram.me/sezarinfo">BanG TeaM</a>
+<br> <h3 dir="rtl">   <a href="https://telegram.me/sezarinfo">My Pv </a>
 <br>
  <h2 dir="rtl"> 👇در صورت هرگونه مشکل حتما متن راهنمای موجود در لینک زیر را مطالعه نمایید.
- <h2 dir="rtl"> <a href="https://telegram.me/Sudo_BanG">کلیک کنید </a>
+ <h2 dir="rtl"> <a href="https://telegram.me/sezarinfo">کلیک کنید </a>
