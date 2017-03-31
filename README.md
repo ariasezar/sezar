@@ -46,8 +46,8 @@
 <br><br>
 اگر جایی به مشکل بر خوردید به پی وی بنده مراجعه کنید
 <br> </h4>
- <h2 dir="rtl"><a href="https://telegram.me/sezarinfo">BanG TeaM</a>
-<br> <h3 dir="rtl">   <a href="https://telegram.me/sezarinfo">My Pv </a>
+ <h2 dir="rtl"><a href="https://telegram.me/sezarinfo">sezarinfo</a>
+<br> <h3 dir="rtl">   <a href="https://telegram.me/sezarinfo">sezarinfo </a>
 <br>
  <h2 dir="rtl"> 👇در صورت هرگونه مشکل حتما متن راهنمای موجود در لینک زیر را مطالعه نمایید.
  <h2 dir="rtl"> <a href="https://telegram.me/sezarinfo">کلیک کنید </a>
